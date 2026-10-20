@@ -663,6 +663,9 @@
             }
             &__text {
                 font-size: 20px;
+                &--label {
+                    font-size: 14px;
+                }
             }
             &__images {
                 margin-top: 80px;
